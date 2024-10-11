@@ -7,8 +7,8 @@ My specialty is React and its ecosystem, but I'm constantly evolving to learn ne
 ## 🚀 Technologies
 
 ### ⚙️ Languages and Tools
-- 🛠️ **HTML**, **CSS**, **SASS**
 - 🛠️ **JavaScript** (ES6+), **TypeScript**
+- 🛠️ **HTML**, **CSS**, **SASS**
 - 🎨 **Bootstrap**, **Material-UI**, **Styled Components**
 
 ### 📚 Frameworks and Libraries
