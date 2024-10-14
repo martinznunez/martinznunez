@@ -30,7 +30,3 @@ My specialty is React and its ecosystem, but I'm constantly evolving to learn ne
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react,nextjs,redux,materialui,styledcomponents,bootstrap,restapi,git,vscode&theme=dark">
   <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react,nextjs,redux,materialui,styledcomponents,bootstrap,restapi,git,vscode&theme=dark" alt="Tech Skills" style="max-width: 100%;">
 </a>
-
-## 📈 Continuous Learning
-
-💡 I'm always on the move, improving my skills and actively participating in online courses to stay at the forefront of the latest trends and best practices in frontend development.
